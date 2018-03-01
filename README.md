@@ -4,7 +4,7 @@ Create a open source analysis tool that will integrate various data and file typ
 ## Synopsis
 The challenge with conducting data analysis as a part of the decision-making process, is that the data comes from disparate sources, each with its own data structure. This requires someone to “cleanse” into a standard data structure before it can be used. That is fine for organizations that have IT departments, but not feasible for most churches, particularly churches in the developing world. 
 
-The purpose of this project is to ask *“what if”* there was a tool that could automate the cleansing process. How would we create a tool that a person with at most a secondary level education and minimal to no technical background could us? What would that tool look like and how would it behave.
+The purpose of this project is to ask *“what if”* there was a tool that could automate the cleansing process. How would we create a tool that a person with at most a secondary level education and minimal to no technical background could use? What would that tool look like and how would it behave.
 
 This project is, at least initially, an ideation effort. It is to explore ideas around the meeting the challenge and testing those ideas out. What we learn as we go through this process will determine the next steps. 
 
